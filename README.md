@@ -12,7 +12,6 @@ These compilation of tasks focuses on Data Analysis and Visualization, Probabili
 I. ASSESSMENT TASKS 
 
 ---
-
 *   [Exercise 1](https://colab.research.google.com/drive/1RlyAOmGOS6VhJblFsDm2u1eQ06TNDTyC?usp=sharing)
 *   [Exercise 2](https://colab.research.google.com/drive/17hRqoXpjVuoWLZ7x1yWQmlLz6ALuUiNF?usp=sharing)
 *   [Exercise 3](https://colab.research.google.com/drive/1Z7sGxTIG3GlDdn9asS-D06p6bLDrPh5S?usp=sharing)
@@ -25,12 +24,10 @@ I. ASSESSMENT TASKS
 II. MIDTERMS
 
 ---
-
 *   [Midterm](https://colab.research.google.com/drive/1EGf19ecZFQ1ShhPobdpaNuwiU5MqYR_3?usp=sharing)
 
 
 III. DATASET COLLECTION
 
 ---
-
 *   [By Partner](https://colab.research.google.com/drive/1K-5jTVPVOfWip8sSQ8aMpBCywoe7gMaH?usp=sharing)
