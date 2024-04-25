@@ -1,5 +1,4 @@
-# CSEL 302
-Google Colab Activities
+# Google Colab Activities
 
 Compiled By: <br>
 Giannah Faith F. Plata <br>
