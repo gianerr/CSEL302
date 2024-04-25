@@ -1,15 +1,15 @@
 # CSEL 302
-<h1>Google Colab Activities</h1>
+Google Colab Activities
 
-Compiled By: 
-Giannah Faith F. Plata 
+Compiled By: <br>
+Giannah Faith F. Plata <br>
 BSCS 2B
 
 **Activities and Projects Compilation**
 
 These compilation of tasks focuses on Data Analysis and Visualization, Probability, Visualization, Linear Regression, and Logistic Regression.
 
-I. ASSESSMENT TASKS 
+<h5>I. ASSESSMENT TASKS</h5>
 
 ---
 *   [Exercise 1](https://colab.research.google.com/drive/1RlyAOmGOS6VhJblFsDm2u1eQ06TNDTyC?usp=sharing)
@@ -21,13 +21,13 @@ I. ASSESSMENT TASKS
 *   [Exercise 7](https://colab.research.google.com/drive/1Ow4VKsrcNMlgwJF8yPAprqluftPNSERu?usp=sharing)
 
 
-II. MIDTERMS
+<h5>II. MIDTERMS</h5>
 
 ---
 *   [Midterm](https://colab.research.google.com/drive/1EGf19ecZFQ1ShhPobdpaNuwiU5MqYR_3?usp=sharing)
 
 
-III. DATASET COLLECTION
+<h5>III. DATASET COLLECTION</h5>
 
 ---
 *   [By Partner](https://colab.research.google.com/drive/1K-5jTVPVOfWip8sSQ8aMpBCywoe7gMaH?usp=sharing)
