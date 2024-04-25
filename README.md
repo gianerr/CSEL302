@@ -1,5 +1,10 @@
 # CSEL-302
 Google Colab Activities
+
+Compiled By: 
+Giannah Faith F. Plata 
+BSCS 2B
+
 **Activities and Projects Compilation**
 
 I. EXERCISES 
