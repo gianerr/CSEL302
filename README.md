@@ -31,8 +31,10 @@ These compilation of tasks focuses on Data Analysis and Visualization, Probabili
 ---
 *   [By Partner](https://colab.research.google.com/drive/1K-5jTVPVOfWip8sSQ8aMpBCywoe7gMaH?usp=sharing)
 
-<h5>IV. FINALS</h5>
+<h5>III. FINALS</h5>
+
 ---
-*   [Finals-Evangelista and Plata](https://colab.research.google.com/drive/188XL_cM_fTc5SfG6IyTPW_-nQ1TALad6?usp=sharing)
+
+*   [Evangelista and Plata](https://colab.research.google.com/drive/188XL_cM_fTc5SfG6IyTPW_-nQ1TALad6?usp=sharing)
 
 
