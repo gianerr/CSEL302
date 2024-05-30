@@ -35,6 +35,6 @@ These compilation of tasks focuses on Data Analysis and Visualization, Probabili
 
 ---
 
-*   [Evangelista and Plata](https://colab.research.google.com/drive/188XL_cM_fTc5SfG6IyTPW_-nQ1TALad6?usp=sharing)
+*   [Evangelista and Plata](FINALS-Evangelista&Plata.pdf)
 
 
