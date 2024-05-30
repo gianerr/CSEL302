@@ -29,12 +29,12 @@ These compilation of tasks focuses on Data Analysis and Visualization, Probabili
 <h5>III. DATASET COLLECTION</h5>
 
 ---
-*   [Delos Santos and Plata](https://colab.research.google.com/drive/1K-5jTVPVOfWip8sSQ8aMpBCywoe7gMaH?usp=sharing)
+*   [By Partner Activity](https://colab.research.google.com/drive/1K-5jTVPVOfWip8sSQ8aMpBCywoe7gMaH?usp=sharing)
 
 <h5>III. FINALS</h5>
 
 ---
 
-*   [Evangelista and Plata](FINALS-Evangelista&Plata.pdf)
+*   [Final Exam](FINALS-Evangelista&Plata.pdf)
 
 
