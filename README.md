@@ -23,7 +23,7 @@ These compilation of tasks focuses on Data Analysis and Visualization, Probabili
 <h5>II. MIDTERMS</h5>
 
 ---
-*   [Midterm](https://colab.research.google.com/drive/1EGf19ecZFQ1ShhPobdpaNuwiU5MqYR_3?usp=sharing)
+*   [Midterm Exam](https://colab.research.google.com/drive/1EGf19ecZFQ1ShhPobdpaNuwiU5MqYR_3?usp=sharing)
 
 
 <h5>III. DATASET COLLECTION</h5>
