@@ -29,7 +29,7 @@ These compilation of tasks focuses on Data Analysis and Visualization, Probabili
 <h5>III. DATASET COLLECTION</h5>
 
 ---
-*   [By Partner](https://colab.research.google.com/drive/1K-5jTVPVOfWip8sSQ8aMpBCywoe7gMaH?usp=sharing)
+*   [Delos Santos and Plata](https://colab.research.google.com/drive/1K-5jTVPVOfWip8sSQ8aMpBCywoe7gMaH?usp=sharing)
 
 <h5>III. FINALS</h5>
 
